@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "988188039787",
+    "firebase_url": "https://fir-authentication-8ac6c.firebaseio.com",
+    "project_id": "fir-authentication-8ac6c",
+    "storage_bucket": "fir-authentication-8ac6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988188039787:android:883b541260bb3b48",
+        "android_client_info": {
+          "package_name": "com.example.kenni.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988188039787-ef0sfgmk0s0sc1b1nj84jurcdorfcu1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfPnLCK5meEvjtIbrKiO2wuE_N_808uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
